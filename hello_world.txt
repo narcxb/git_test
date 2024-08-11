@@ -1,1 +1,2 @@
 Hello, world!
+Making sure everything works as intended.
